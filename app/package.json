@@ -2,7 +2,7 @@
   "name": "nodejs-devops",
   "version": "1.0.0",
   "scripts": {
-    "start": "node server.js",
+    "start": "node app.js",
     "test": "echo \"Tests passed\""
   },
   "dependencies": {
